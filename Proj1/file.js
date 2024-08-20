@@ -70,27 +70,45 @@
 // (function(){
 //     document.write("This is My laptop<br>")
 // }());
-function Morning(){
-    document.getElementById("demo").innerHTML="Good Morning";
-    document.getElementById("mode").style.background="skyblue";
-    document.getElementById("mode").style.color="Black";
-}
-Morning()
-function Afternoon(){
-    document.getElementById("demo").innerHTML="Good Afternoon";
-    document.getElementById("mode").style.background="red";
-    document.getElementById("mode").style.color="Black";
-}    
-Afternoon()
-function Evening(){
-    document.getElementById("demo").innerHTML="Good Evening";
-    document.getElementById("mode").style.background="goldenrod";
-    document.getElementById("mode").style.color="Black";
-}
-Evening()
-function Night(){
-    document.getElementById("demo").innerHTML="Good Night";
-    document.getElementById("mode").style.background="black";
-    document.getElementById("mode").style.color="white";
-}
-Night()
+// function Morning(){
+//     document.getElementById("demo").innerHTML="Good Morning";
+//     document.getElementById("mode").style.background="skyblue";
+//     document.getElementById("mode").style.color="Black";
+// }
+// Morning()
+// function Afternoon(){
+//     document.getElementById("demo").innerHTML="Good Afternoon";
+//     document.getElementById("mode").style.background="red";
+//     document.getElementById("mode").style.color="Black";
+// }    
+// Afternoon()
+// function Evening(){
+//     document.getElementById("demo").innerHTML="Good Evening";
+//     document.getElementById("mode").style.background="goldenrod";
+//     document.getElementById("mode").style.color="Black";
+// }
+// Evening()
+// function Night(){
+//     document.getElementById("demo").innerHTML="Good Night";
+//     document.getElementById("mode").style.background="black";
+//     document.getElementById("mode").style.color="white";
+// }
+// Night()
+//let Student= {
+//     id:101,
+//     sname:"Lucky",
+//     isStudent: true,
+// }
+// let {id,sname,isStudent}=Student
+// console.log(Student);
+// console.log(id);
+// console.log(sname);
+// console.log(isStudent);
+// let Student= {
+//     id:101,
+//     sname:"Lucky",
+//     isStudent: true,
+// }
+// console.log(Student);
+// delete Student.isStudent
+// console.log(Student);
